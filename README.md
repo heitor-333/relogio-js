@@ -1,1 +1,1 @@
-#projeto feito com javascript.
+Projeto feito com javascript.
